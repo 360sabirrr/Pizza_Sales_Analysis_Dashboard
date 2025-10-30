@@ -29,8 +29,8 @@ It features an interactive dashboard that highlights **sales performance**, **pe
 
 ## 📂 Dataset Information  
 
-The dataset used in this project is **pizza_sales.csv**, which contains detailed sales records for a pizza store.  
-It includes information about orders, pizza types, categories, sizes, quantities, prices, and order dates.  
+The dataset used in this project is [**pizza_sales.csv**](./pizza_sales.csv), which contains detailed sales records for a pizza store.  
+It includes information about orders, pizza types, categories, sizes, quantities, prices, and order dates. 
 
 ## 🔎 Key Insights  
 - Total Revenue: **$71,403**  
