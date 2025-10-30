@@ -24,4 +24,4 @@ It features an interactive dashboard that highlights **sales performance**, **pe
 | Tool / Technology | Purpose |
 |--------------------|----------|
 | 🧮 **Microsoft Excel** | Data visualization, dashboard creation, and analysis using charts, pivot tables, and slicers |
-| 🗃️ **SQL (MySQL / MS SQL Server)** | Data extraction, cleaning, aggregation, and trend analysis |
+| 🗃️ **SQL (MS SQL Server)** | Data extraction, cleaning, aggregation, and trend analysis |
