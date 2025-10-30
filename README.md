@@ -20,6 +20,8 @@ It features an interactive dashboard that highlights **sales performance**, **pe
 ![Pizza Sales Dashboard](Pizza_sales_Dashboard.jpg)
 
 ## 🛠️ Tools & Technologies  
-- **Power BI** – Data visualization and dashboard creation  
-- **Excel / CSV** – Dataset handling  
-- **SQL / Python (optional)** – Data cleaning and analysis  
+
+| Tool / Technology | Purpose |
+|--------------------|----------|
+| 🧮 **Microsoft Excel** | Data visualization, dashboard creation, and analysis using charts, pivot tables, and slicers |
+| 🗃️ **SQL (MySQL / MS SQL Server)** | Data extraction, cleaning, aggregation, and trend analysis |
