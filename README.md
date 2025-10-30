@@ -4,11 +4,11 @@
 The objective of this project is to analyze pizza sales data to uncover key business insights that can help improve sales performance, product strategy, and operational efficiency.  
 
 This dashboard aims to:  
-- 🔍 Identify top-performing pizza categories and sizes that generate the highest revenue.  
-- 🕒 Determine the busiest days and peak ordering hours to optimize staffing and inventory management.  
-- 📈 Highlight best and worst-selling pizzas to guide marketing and menu decisions.  
-- 💡 Analyze customer purchasing trends through total sales, order volume, and average order value.  
-- 📊 Provide an interactive and data-driven visualization for management to make informed, strategic business decisions.
+-  Identify top-performing pizza categories and sizes that generate the highest revenue.  
+-  Determine the busiest days and peak ordering hours to optimize staffing and inventory management.  
+-  Highlight best and worst-selling pizzas to guide marketing and menu decisions.  
+-  Analyze customer purchasing trends through total sales, order volume, and average order value.  
+-  Provide an interactive and data-driven visualization for management to make informed, strategic business decisions.
 
 
 ## 📘 Project Overview  
@@ -24,8 +24,8 @@ It features an interactive dashboard that highlights **sales performance**, **pe
 
 | Tool / Technology | Purpose |
 |--------------------|----------|
-| 🧮 **Microsoft Excel** | Data visualization, dashboard creation, and analysis using charts, pivot tables, and slicers |
-| 🗃️ **SQL (MS SQL Server)** | Data extraction, cleaning, aggregation, and trend analysis |
+|  **Microsoft Excel** | Data visualization, dashboard creation, and analysis using charts, pivot tables, and slicers |
+|  **SQL (MS SQL Server)** | Data extraction, cleaning, aggregation, and trend analysis |
 
 ## 🔎 Key Insights  
 - Total Revenue: **$71,403**  
@@ -37,9 +37,15 @@ It features an interactive dashboard that highlights **sales performance**, **pe
 
 ## ⚙️ SQL Tasks Performed  
 
-- 🧹 **Data Cleaning & Filtering:** Used `WHERE`, `LIKE`, and `BETWEEN` clauses to clean and filter data.  
-- 📊 **Data Aggregation:** Applied `SUM()`, `AVG()`, `COUNT()`, and `GROUP BY` to calculate key metrics.  
-- ⏰ **Time-Based Analysis:** Used `DATEPART()` and `ORDER BY` to analyze daily and hourly sales trends.  
-- 🔗 **Category & Size Analysis:** Performed joins and subqueries to compare sales across pizza categories and sizes.  
+-  **Data Cleaning & Filtering:** Used `WHERE`, `LIKE`, and `BETWEEN` clauses to clean and filter data.  
+-  **Data Aggregation:** Applied `SUM()`, `AVG()`, `COUNT()`, and `GROUP BY` to calculate key metrics.  
+-  **Time-Based Analysis:** Used `DATEPART()` and `ORDER BY` to analyze daily and hourly sales trends.  
+-  **Category & Size Analysis:** Performed joins and subqueries to compare sales across pizza categories and sizes.  
 
+## 🚀 Business Impact  
+
+-  Helped identify **top-selling pizza categories** for targeted promotions.  
+-  Optimized **staffing schedules** around peak business hours.  
+-  Improved **inventory planning** based on size and category trends.  
+-  Enabled management to make **data-driven decisions** with visual clarity and confidence.  
 
