@@ -25,3 +25,11 @@ It features an interactive dashboard that highlights **sales performance**, **pe
 |--------------------|----------|
 | 🧮 **Microsoft Excel** | Data visualization, dashboard creation, and analysis using charts, pivot tables, and slicers |
 | 🗃️ **SQL (MS SQL Server)** | Data extraction, cleaning, aggregation, and trend analysis |
+
+## 🔎 Key Insights  
+- Total Revenue: **$71,403**  
+- Average Order Value: **$38.53**  
+- Total Pizzas Sold: **4,328**  
+- Highest Orders: **Friday & Saturday evenings (12–1 PM, 4–8 PM)**  
+- Best Sellers: **Classic Deluxe** and **Chicken Pizzas**  
+- Lowest Seller: **Brie Carre Pizza**
