@@ -34,11 +34,5 @@ It features an interactive dashboard that highlights **sales performance**, **pe
 - Highest Orders: **Friday & Saturday evenings (12–1 PM, 4–8 PM)**  
 - Best Sellers: **Classic Deluxe** and **Chicken Pizzas**  
 - Lowest Seller: **Brie Carre Pizza**
-## 📁 Project Structure  
 
-📂 Pizza_Sales_Dashboard
-├── 📄 dataset.csv # Raw pizza sales data
-├── 🗃️ pizza_sales_queries.sql # SQL queries for data analysis
-├── 📊 Pizza_Sales_Dashboard.xlsx # Excel dashboard and visualizations
-├── 🖼️ Pizza_Sales_Dashboard.jpg # Dashboard preview image
 
