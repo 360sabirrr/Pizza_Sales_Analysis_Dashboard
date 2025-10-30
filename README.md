@@ -34,3 +34,6 @@ It features an interactive dashboard that highlights **sales performance**, **pe
 - Highest Orders: **Friday & Saturday evenings (12–1 PM, 4–8 PM)**  
 - Best Sellers: **Classic Deluxe** and **Chicken Pizzas**  
 - Lowest Seller: **Brie Carre Pizza**
+
+## 📁 Project Structure  
+
