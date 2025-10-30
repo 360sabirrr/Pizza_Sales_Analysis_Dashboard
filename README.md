@@ -27,6 +27,11 @@ It features an interactive dashboard that highlights **sales performance**, **pe
 |  **Microsoft Excel** | Data visualization, dashboard creation, and analysis using charts, pivot tables, and slicers |
 |  **SQL (MS SQL Server)** | Data extraction, cleaning, aggregation, and trend analysis |
 
+## 📂 Dataset Information  
+
+The dataset used in this project is **pizza_sales.csv**, which contains detailed sales records for a pizza store.  
+It includes information about orders, pizza types, categories, sizes, quantities, prices, and order dates.  
+
 ## 🔎 Key Insights  
 - Total Revenue: **$71,403**  
 - Average Order Value: **$38.53**  
