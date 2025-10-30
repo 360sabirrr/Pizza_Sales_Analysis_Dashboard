@@ -16,9 +16,28 @@ This dashboard aims to:
 This project analyzes pizza sales data using **SQL** and **Excel** to uncover insights on revenue, top-selling pizzas, and customer trends.  
 It features an interactive dashboard that highlights **sales performance**, **peak order times**, and **best/worst-selling products**, helping businesses make **data-driven decisions** for improved efficiency and growth.  
 
-## 📊 Dashboard Preview  
+## 🧩 Problem Statement  
 
-![Pizza Sales Dashboard](Pizza_sales_Dashboard.jpg)
+We need to analyze key indicators for our pizza sales data to gain insights into business performance.  
+Specifically, we aim to calculate the following metrics (KPIs):  
+
+### 📊 KPI Requirements  
+
+1. **Total Revenue:**  
+   The sum of the total price of all pizza orders.  
+
+2. **Average Order Value:**  
+   The average amount spent per order, calculated by dividing the total revenue by the total number of orders.  
+
+3. **Total Pizzas Sold:**  
+   The sum of the quantities of all pizzas sold.  
+
+4. **Total Orders:**  
+   The total number of orders placed.  
+
+5. **Average Pizzas Per Order:**  
+   The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.  
+
 
 ## 🛠️ Tools & Technologies  
 
@@ -54,3 +73,6 @@ It includes information about orders, pizza types, categories, sizes, quantities
 -  Improved **inventory planning** based on size and category trends.  
 -  Enabled management to make **data-driven decisions** with visual clarity and confidence.  
 
+## 📊 Dashboard Preview  
+
+![Pizza Sales Dashboard](Pizza_sales_Dashboard.jpg)
