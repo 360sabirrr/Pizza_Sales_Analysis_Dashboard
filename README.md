@@ -1,3 +1,4 @@
+#Pizza Sales Dashboard – Data Analysis Project
 ##Project Objective
 The objective of this project is to analyze pizza sales data to uncover key business insights that can help improve sales performance, product strategy, and operational efficiency.
 This dashboard aims to:
