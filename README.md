@@ -35,4 +35,11 @@ It features an interactive dashboard that highlights **sales performance**, **pe
 - Best Sellers: **Classic Deluxe** and **Chicken Pizzas**  
 - Lowest Seller: **Brie Carre Pizza**
 
+## ⚙️ SQL Tasks Performed  
+
+- 🧹 **Data Cleaning & Filtering:** Used `WHERE`, `LIKE`, and `BETWEEN` clauses to clean and filter data.  
+- 📊 **Data Aggregation:** Applied `SUM()`, `AVG()`, `COUNT()`, and `GROUP BY` to calculate key metrics.  
+- ⏰ **Time-Based Analysis:** Used `DATEPART()` and `ORDER BY` to analyze daily and hourly sales trends.  
+- 🔗 **Category & Size Analysis:** Performed joins and subqueries to compare sales across pizza categories and sizes.  
+
 
