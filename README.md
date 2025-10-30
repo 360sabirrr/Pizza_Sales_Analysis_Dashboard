@@ -14,3 +14,7 @@ This dashboard aims to:
 
 This project analyzes pizza sales data using **SQL** and **Excel** to uncover insights on revenue, top-selling pizzas, and customer trends.  
 It features an interactive dashboard that highlights **sales performance**, **peak order times**, and **best/worst-selling products**, helping businesses make **data-driven decisions** for improved efficiency and growth.  
+
+## 📊 Dashboard Preview  
+
+![Pizza Sales Dashboard](Pizza_sales_Dashboard.jpg)
