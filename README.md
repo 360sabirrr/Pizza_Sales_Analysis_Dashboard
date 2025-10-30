@@ -38,6 +38,39 @@ Specifically, we aim to calculate the following metrics (KPIs):
 5. **Average Pizzas Per Order:**  
    The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.  
 
+## 📊 Charts Requirement  
+
+We aim to visualize various aspects of our pizza sales data to gain insights and understand key trends.  
+The following charts were created to fulfill these requirements:  
+
+1. **Daily Trend for Total Orders:**  
+   A bar chart displaying the daily trend of total orders over a specific time period.  
+   This helps identify patterns or fluctuations in daily order volumes.  
+
+2. **Hourly Trend for Total Orders:**  
+   A line chart illustrating the hourly trend of total orders throughout the day.  
+   This reveals peak hours or periods of high order activity.  
+
+3. **Percentage of Sales by Pizza Category:**  
+   A pie chart showing the distribution of sales across different pizza categories.  
+   This provides insights into the popularity of pizza categories and their contribution to total sales.  
+
+4. **Percentage of Sales by Pizza Size:**  
+   A pie chart representing the percentage of sales attributed to different pizza sizes.  
+   This helps understand customer preferences for pizza sizes and their impact on sales.  
+
+5. **Total Pizzas Sold by Pizza Category:**  
+   A funnel chart presenting the total number of pizzas sold for each category.  
+   This allows comparison of sales performance across different pizza categories.  
+
+6. **Top 5 Best Sellers by Total Pizzas Sold:**  
+   A bar chart highlighting the top 5 best-selling pizzas based on total pizzas sold.  
+   This identifies the most popular pizza options.  
+
+7. **Bottom 5 Worst Sellers by Total Pizzas Sold:**  
+   A bar chart showcasing the bottom 5 worst-selling pizzas based on total pizzas sold.  
+   This helps identify underperforming or less popular pizza options.  
+
 
 ## 🛠️ Tools & Technologies  
 
